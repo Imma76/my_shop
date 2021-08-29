@@ -9,7 +9,7 @@ packages:
     source: hosted
     version: "2.0.1"
   async:
-    dependency: transitive
+    dependency: "direct dev"
     description:
       name: async
       url: "https://pub.dartlang.org"
@@ -139,6 +139,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_paystack:
+    dependency: "direct dev"
+    description:
+      name: flutter_paystack
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.5+1"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
@@ -191,6 +198,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.17.0"
   introduction_screen:
     dependency: "direct main"
     description:
